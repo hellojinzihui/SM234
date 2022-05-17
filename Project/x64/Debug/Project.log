@@ -1,0 +1,9 @@
+﻿  main.c
+D:\vc++project\SMproject\Src\main.c(3,9): fatal error C1083: 无法打开包括文件: “SM2.h”: No such file or directory
+  SM2.c
+D:\vc++project\SMproject\Src\SM2.c(1,9): fatal error C1083: 无法打开包括文件: “SM2.h”: No such file or directory
+  SM3.c
+D:\vc++project\SMproject\Src\SM3.c(1,10): fatal error C1083: 无法打开包括文件: “SM3.h”: No such file or directory
+  SM4.c
+D:\vc++project\SMproject\Src\SM4.c(4,10): fatal error C1083: 无法打开包括文件: “SM4.h”: No such file or directory
+  正在生成代码...
