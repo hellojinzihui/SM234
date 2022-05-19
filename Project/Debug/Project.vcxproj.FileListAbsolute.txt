@@ -1,1 +1,2 @@
 D:\vc++project\SMproject\Project\Debug\Project.exe
+D:\VSproject\SMproject\Project\Debug\Project.exe
